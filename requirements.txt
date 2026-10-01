@@ -1,0 +1,8 @@
+streamlit==1.64.0
+numpy==2.3.5
+pandas==2.2.3
+yfinance==0.2.66
+pyswisseph==2.10.3.2
+lxml==6.1.1
+reportlab==4.4.9
+ipython==9.17.1
